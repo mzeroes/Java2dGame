@@ -15,6 +15,7 @@
     <inspection_tool class="DanglingJavadoc" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
     <inspection_tool class="DollarSignInName" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
     <inspection_tool class="ExceptionNameDoesntEndWithException" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="FieldCanBeLocal" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
     <inspection_tool class="FieldNamingConvention" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
     <inspection_tool class="JavaDoc" enabled="true" level="WEAK WARNING" enabled_by_default="true">
       <option name="TOP_LEVEL_CLASS_OPTIONS">

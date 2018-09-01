@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaGame.iml" filepath="$PROJECT_DIR$/JavaGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1368971951/Java2dGame_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1368971951/Java2dGame_main.iml" group="Java2dGame" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1368971951/Java2dGame_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1368971951/Java2dGame_test.iml" group="Java2dGame" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1368971951/io.github.mzeroes.java2dgame-Java2dGame.iml" filepath="$PROJECT_DIR$/.idea/modules/1368971951/io.github.mzeroes.java2dgame-Java2dGame.iml" />
     </modules>
   </component>
 </project>
